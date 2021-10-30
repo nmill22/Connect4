@@ -1,8 +1,7 @@
 # Connect4
 
 Nick Miller,
-10/30/2021,
-Connect 4 game.
+10/30/2021.
 
 
 Basic Connect 4 game where you can choose to play against friends, or against a CPU.
