@@ -1,7 +1,7 @@
 # Connect4
 
 Nick Miller,
-07/26/2021,
+10/30/2021,
 Connect 4 game.
 
 
